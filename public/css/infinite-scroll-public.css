@@ -1,0 +1,10 @@
+ #infiniteContainer {
+	 display: grid;
+	 grid-gap:7%;
+	 grid-template-columns: 45% 45%;	 
+	 grid-row-gap: 25px;
+ }
+ #infiniteBottom {
+	 position:relative;
+	 bottom:0px;
+ }
